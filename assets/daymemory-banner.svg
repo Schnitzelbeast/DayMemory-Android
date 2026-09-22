@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">DayMemory</title>
+  <desc id="desc">Eine ruhige, grüne Illustration einer Aufnahme, die zu einem lesbaren Tagesprotokoll wird.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102f30"/><stop offset="1" stop-color="#1b5953"/></linearGradient>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#d7f8c8"/><stop offset="1" stop-color="#a7e4c9"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="22" flood-color="#082324" flood-opacity=".35"/></filter>
+  </defs>
+  <rect width="1200" height="390" rx="28" fill="url(#bg)"/>
+  <circle cx="1068" cy="-32" r="230" fill="#bdf1d1" opacity=".06"/>
+  <circle cx="1080" cy="378" r="250" fill="#bdf1d1" opacity=".05"/>
+  <path d="M0 319 C194 248 293 380 473 304 S768 230 1200 313" fill="none" stroke="#a3dcca" stroke-width="2" opacity=".14"/>
+  <rect x="72" y="77" width="48" height="48" rx="15" fill="url(#accent)"/>
+  <text x="96" y="109" text-anchor="middle" fill="#123b37" font-family="Arial,sans-serif" font-weight="800" font-size="27">D</text>
+  <text x="72" y="190" fill="#f4fff8" font-family="Arial,sans-serif" font-size="55" font-weight="700" letter-spacing="-2">DayMemory</text>
+  <text x="74" y="232" fill="#d1ebe1" font-family="Arial,sans-serif" font-size="21">Dein Tag bleibt hörbar. Und auffindbar.</text>
+  <rect x="74" y="272" width="300" height="42" rx="21" fill="#d8f6ce"/>
+  <text x="224" y="299" fill="#18453d" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700">Aufnehmen  ·  Transkribieren</text>
+  <g filter="url(#shadow)">
+    <rect x="729" y="53" width="375" height="284" rx="28" fill="#f5faf4"/>
+    <rect x="754" y="76" width="325" height="42" rx="12" fill="#e8f2e9"/>
+    <circle cx="779" cy="97" r="8" fill="#3e9d7a"/>
+    <text x="801" y="103" fill="#345b50" font-family="Arial,sans-serif" font-size="16" font-weight="700">Heute · Tagesprotokoll</text>
+    <path d="M762 162h8v-14h8v25h8v-35h8v42h8v-21h8v-27h8v46h8v-37h8v26h8v-13h8v31h8v-47h8v28h8v-15h8v37h8v-24h8v13h8v-18h8v33h8v-42h8v19h8v-11h8v25h8v-16h8v7h8" fill="none" stroke="#3c947b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="754" y="211" width="92" height="12" rx="6" fill="#cce4d6"/>
+    <rect x="858" y="211" width="184" height="12" rx="6" fill="#dbe9df"/>
+    <rect x="754" y="239" width="271" height="12" rx="6" fill="#dbe9df"/>
+    <rect x="754" y="267" width="206" height="12" rx="6" fill="#dbe9df"/>
+    <rect x="754" y="295" width="244" height="12" rx="6" fill="#dbe9df"/>
+  </g>
+</svg>
