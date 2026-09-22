@@ -5,12 +5,12 @@
 
   **Aufnehmen. Lokal transkribieren. Den Tag wiederfinden.**
 
-  [![Version](https://img.shields.io/badge/Version-4.11-1e6b61?style=flat-square)](./DayMemory-4.11-debug.apk)
+  [![Version](https://img.shields.io/badge/Version-4.12-1e6b61?style=flat-square)](./DayMemory-4.12-debug.apk)
   ![Android](https://img.shields.io/badge/Android-8.0%2B-173c3a?style=flat-square)
   ![Architektur](https://img.shields.io/badge/Ger%C3%A4te-arm64--v8a-173c3a?style=flat-square)
   ![Status](https://img.shields.io/badge/Status-Testversion-e8a85b?style=flat-square)
 
-  [**APK herunterladen**](https://github.com/Schnitzelbeast/DayMemory-Android/raw/refs/heads/main/DayMemory-4.11-debug.apk) · [DayMemory Pro](https://daymemory-pro-portal.frosty-bun-3790.chatgpt.site/)
+  [**APK herunterladen**](https://github.com/Schnitzelbeast/DayMemory-Android/raw/refs/heads/main/DayMemory-4.12-debug.apk) · [DayMemory Pro](https://daymemory-pro-portal.frosty-bun-3790.chatgpt.site/)
 </div>
 
 ---
@@ -25,7 +25,7 @@ Die App zeigt Aufnahme, Verarbeitung und Upload in den Einstellungen an. Eine Di
 
 ### Installieren
 
-1. [DayMemory 4.11 als APK herunterladen](https://github.com/Schnitzelbeast/DayMemory-Android/raw/refs/heads/main/DayMemory-4.11-debug.apk).
+1. [DayMemory 4.12 als APK herunterladen](https://github.com/Schnitzelbeast/DayMemory-Android/raw/refs/heads/main/DayMemory-4.12-debug.apk).
 2. Auf einem **ARM64-Gerät mit Android 8.0 oder neuer** öffnen und die Installation aus dieser Quelle erlauben.
 3. Mikrofon- und Benachrichtigungsberechtigung erteilen. Das Sprachmodell beim ersten Einsatz herunterladen.
 
@@ -39,7 +39,9 @@ DayMemory verwendet ein gerätebezogenes Konto für den Probemonat und die Pro-B
 
 ### Fragen zu deinen Aufnahmen
 
-Die Transkripte liegen als lesbare Tagesdateien in Dropbox. Eine ChatGPT-Verknüpfung mit Dropbox ist **keine Voraussetzung für Aufnahme und Transkription**. Wer seine Transkripte in ChatGPT auswerten möchte, kann die betreffende Tagesdatei selbst hochladen. Eine direkte Suche in der App ist für diese Testversion nicht ausgewiesen.
+Unter **Einstellungen → Aufnahmen durchsuchen** kannst du direkt auf dem Handy nach Datum, Thema, Schulfach oder Stichwort suchen. Das funktioniert offline und ohne ChatGPT-Abo.
+
+Für freie Fragen gibst du dort deine Frage ein und tippst auf **Transkripte zum Fragen teilen**. Die App fasst die lokalen Transkripte in **einer Textdatei** zusammen; du entscheidest im Teilen-Menü, ob du sie an ChatGPT oder eine andere App weitergibst. ChatGPT Free unterstützt Datei-Uploads mit Nutzungsgrenzen. Falls die ChatGPT-App keine Textdatei aus dem Teilen-Menü annimmt, nutze **Textdatei speichern** und lade die Datei in ChatGPT hoch. Ohne Datum werden die neuesten Einträge bis zur Dateigrößengrenze aufgenommen; mit Datum nur der gewählte Tag. Prüfe die Datei vor dem Teilen, wenn vertrauliche Gespräche enthalten sind.
 
 ### Download und Projektstand
 
